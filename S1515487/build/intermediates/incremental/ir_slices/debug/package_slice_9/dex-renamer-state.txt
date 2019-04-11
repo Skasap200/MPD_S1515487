@@ -1,0 +1,4 @@
+#Sun Apr 07 23:46:09 BST 2019
+base.0=C\:\\Users\\stavr\\Desktop\\S1515487\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
+path.0=classes.dex
+renamed.0=classes.dex
